@@ -1,0 +1,13 @@
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\bin\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.exe
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\bin\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.deps.json
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\bin\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.runtimeconfig.json
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\bin\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.runtimeconfig.dev.json
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\bin\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.dll
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\bin\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.pdb
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.AssemblyInfo.cs
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.dll
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.pdb
+C:\Users\DCV\source\repos\AufgabeVererbungundEingabe\AufgabeVererbungundEingabe\obj\Debug\netcoreapp3.1\AufgabeVererbungundEingabe.genruntimeconfig.cache
